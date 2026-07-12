@@ -15,7 +15,7 @@
 </td>
 <td width="20%" align="right">
 
-<img src="https://www.flaticon.com/free-animated-icon/software_17122663.png" width="110" alt="Developer icon"/>
+<img src="https://www.flaticon.com/free-animated-icon/software_17122663" width="110" alt="Developer icon"/>
 
 </td>
 </tr>
