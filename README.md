@@ -1,6 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Dhananjay%20Khaire&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=MCA%20(AI%20%26%20ML)%20Student%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="url(#bg)"/>
+  <path d="M0,170 Q300,140 600,170 T1200,170 L1200,200 L0,200 Z" fill="#7dd3fc" opacity="0.15"/>
+  <path d="M0,180 Q300,155 600,180 T1200,180 L1200,200 L0,200 Z" fill="#7dd3fc" opacity="0.3"/>
+  <text x="600" y="95" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">Dhananjay Khaire</text>
+  <text x="600" y="130" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#7dd3fc" text-anchor="middle">MCA (AI &amp; ML) Student | Cloud &amp; DevOps Enthusiast</text>
+</svg>
 
 <table>
 <tr>
