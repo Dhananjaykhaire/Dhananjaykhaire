@@ -1,16 +1,6 @@
 <div align="center">
 
-<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#3b5bdb"/>
-      <stop offset="100%" stop-color="#7048b8"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="220" fill="url(#bg)"/>
-  <path d="M0,180 Q300,150 600,180 T1200,180 L1200,220 L0,220 Z" fill="#0d1117"/>
-  <text x="600" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="70" font-weight="900" fill="#0d1117" text-anchor="middle">Dhananjay Khaire</text>
-</svg>
+<img src="./assets/banner.svg" alt="Dhananjay Khaire" width="100%"/>
 
 <br/>
 
