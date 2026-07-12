@@ -1,8 +1,6 @@
 <div align="center">
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Dhananjay%20Khaire&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=MCA%20(AI%20%26%20ML)%20Student%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-
 
 <table>
 <tr>
@@ -15,8 +13,7 @@
 </td>
 <td width="20%" align="right">
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3f9bf148-21c4-4d64-bd14-14d0e75bce6d" 
- width="110" alt="Developer icon"/>
+<img src="https://github.com/user-attachments/assets/3f9bf148-21c4-4d64-bd14-14d0e75bce6d" width="110" alt="Developer icon"/>
 
 </td>
 </tr>
