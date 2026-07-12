@@ -1,10 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Dhananjay%20Khaire&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=MCA%20(AI%20%26%20ML)%20Student%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Dhananjay%20Khaire&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=MCA%20(AI%20%26%20ML)%20Student%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+
+<table>
+<tr>
+<td width="80%">
 
 <a href="https://github.com/Dhananjaykhaire">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=MCA+(AI+%26+ML)+Student;Cloud+%26+DevOps+Enthusiast;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;Building+with+Python+%26+JavaScript;Exploring+Generative+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=false&vCenter=true&width=600&lines=MCA+(AI+%26+ML)+Student;Cloud+%26+DevOps+Enthusiast;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;Building+with+Python+%26+JavaScript;Exploring+Generative+AI" alt="Typing SVG" />
 </a>
+
+</td>
+<td width="20%" align="right">
+
+<img src="https://cdn-icons-png.flaticon.com/512/1995/1995574.png" width="110" alt="Developer icon"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
