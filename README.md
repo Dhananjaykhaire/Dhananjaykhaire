@@ -1,64 +1,56 @@
 <div align="center">
 
-<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#161b22"/>
+      <stop offset="0%" stop-color="#3b5bdb"/>
+      <stop offset="100%" stop-color="#7048b8"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="200" fill="url(#bg)"/>
-  <path d="M0,170 Q300,140 600,170 T1200,170 L1200,200 L0,200 Z" fill="#7dd3fc" opacity="0.15"/>
-  <path d="M0,180 Q300,155 600,180 T1200,180 L1200,200 L0,200 Z" fill="#7dd3fc" opacity="0.3"/>
-  <text x="600" y="95" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">Dhananjay Khaire</text>
-  <text x="600" y="130" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#7dd3fc" text-anchor="middle">MCA (AI &amp; ML) Student | Cloud &amp; DevOps Enthusiast</text>
+  <rect width="1200" height="220" fill="url(#bg)"/>
+  <path d="M0,180 Q300,150 600,180 T1200,180 L1200,220 L0,220 Z" fill="#0d1117"/>
+  <text x="600" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="70" font-weight="900" fill="#0d1117" text-anchor="middle">Dhananjay Khaire</text>
 </svg>
-
-<table>
-<tr>
-<td width="80%">
-
-<a href="https://github.com/Dhananjaykhaire">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=false&vCenter=true&width=600&lines=MCA+(AI+%26+ML)+Student;Cloud+%26+DevOps+Enthusiast;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;Building+with+Python+%26+JavaScript;Exploring+Generative+AI" alt="Typing SVG" />
-</a>
-
-</td>
-<td width="20%" align="right">
-
-<img src="https://github.com/user-attachments/assets/3f9bf148-21c4-4d64-bd14-14d0e75bce6d" width="110" alt="Developer icon"/>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Dhananjaykhaire&label=Profile%20Views&color=7dd3fc&style=flat" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Dhananjaykhaire?label=Followers&style=flat&color=7dd3fc" alt="Followers"/>
+<a href="https://github.com/Dhananjaykhaire/Portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-2b2b2b?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/dhananjay-khaire-ab1414255"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:dhananjay.khaire2004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<a href="https://github.com/Dhananjaykhaire">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=MCA+(AI+%26+ML)+Student;Cloud+%26+DevOps+Enthusiast;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;Building+with+Python+%26+JavaScript;Exploring+Generative+AI" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Dhananjaykhaire&label=PROFILE%20VIEWS&color=7048b8&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Dhananjaykhaire?label=FOLLOWERS&style=for-the-badge&color=7dd3fc&logoColor=black" alt="Followers"/>
 
 </div>
 
 <br/>
 
-## 🧠 Who I Am
+## 🧑‍💻 About Me
 
-```typescript
-const dhananjayKhaire = {
-  title: "MCA (AI & ML) Student | Cloud & DevOps Enthusiast",
-  stack: {
-    languages: ["Python", "JavaScript", "HTML", "CSS"],
-    frontend: ["HTML", "CSS", "JavaScript"],
-    backend: ["Node.js", "MongoDB"],
-    cloud: ["AWS", "Microsoft Azure", "Firebase"],
-    devOps: ["Docker", "Kubernetes", "Linux", "Basic CI/CD"],
-    aiMl: ["Generative AI", "Python (learning)", "Artificial Intelligence & Machine Learning"],
-    tools: ["Bash", "Kali Linux"],
-  },
-  launchedProjects: ["Portfolio", "AWS_Resource_Tracker"],
-  certifications: [],
-  status: "Learning Cloud, DevOps & AI/ML",
-  openTo: ["Collaboration", "Cloud & DevOps Projects", "AI/ML Projects"],
-};
+```yaml
+name: Dhananjay Khaire
+current_role: MCA (AI & ML) Student | Cloud & DevOps Enthusiast
+tech_focus:
+  - AWS, Microsoft Azure, Firebase
+  - Docker, Kubernetes, Linux, Basic CI/CD
+  - Generative AI & Machine Learning (learning)
+  - Web Development (Node.js, MongoDB)
+launched_projects:
+  - Portfolio
+  - AWS_Resource_Tracker
+status: Learning Cloud, DevOps & AI/ML
+open_to:
+  - Collaboration
+  - Cloud & DevOps projects
+  - AI/ML projects
 ```
 
 <br/>
