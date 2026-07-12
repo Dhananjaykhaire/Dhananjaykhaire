@@ -15,8 +15,8 @@
 </td>
 <td width="20%" align="right">
 
-<img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3f9bf148-21c4-4d64-bd14-14d0e75bce6d" />
-" width="110" alt="Developer icon"/>
+<img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3f9bf148-21c4-4d64-bd14-14d0e75bce6d" 
+ width="110" alt="Developer icon"/>
 
 </td>
 </tr>
